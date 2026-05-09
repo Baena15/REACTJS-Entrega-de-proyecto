@@ -58,4 +58,6 @@ src/
 
 ## Autor
 
+**Ismael Alfaro Marin**
+
 Proyecto académico para la entrega de ReactJS.
